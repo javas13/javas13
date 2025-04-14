@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My name is Andrey and I am a c# developer 💫
+## My name is Andrey and I am a c# developer ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 <!--
 **javas13/javas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
