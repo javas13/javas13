@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 💫 My name is Andrey and I am a c# developer 
 
-I am a passionate software developer specializing in .NET technologies with extensive experience in C#, WPF, ASP NET WebAPI, MS SQL Server, PostgreSQL, MySQL, WPF.
+I am a passionate software developer specializing in .NET technologies with extensive experience in C#, WPF, ASP NET WebAPI, MS SQL Server, PostgreSQL, MySQL.
 
 My expertise includes deploying APIs and databases on VDS servers.
 
