@@ -1,6 +1,11 @@
 ## Hi there 👋
 ## 💫 My name is Andrey and I am a c# developer 
 
+I am a passionate software developer specializing in .NET technologies with extensive experience in C#, WPF, ASP NET WebAPI, MS SQL Server, PostgreSQL, MySQL, WPF.
+
+My expertise includes deploying APIs and databases on VDS servers.
+
+Feel free to explore my projects and contributions here on GitHub!
 <!--
 **javas13/javas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
